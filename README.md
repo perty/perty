@@ -1,4 +1,6 @@
-### Hi there 👋
+### Per Lundholm
+
+You can hire me! I work at Agical (Stockholm)  https://agical.se.
 
 <!--
 **perty/perty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
